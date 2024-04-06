@@ -2,8 +2,8 @@
 
     $hostname = "localhost";
     $username = "root";
-    $password = "your password";
-    $database = "your database";
+    $password = "MSf1Aaw9Qa9967489922";
+    $database = "cinema";
 
     $conn = mysqli_connect($hostname, $username, $password, $database);
 
